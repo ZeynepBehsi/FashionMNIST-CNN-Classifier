@@ -28,3 +28,7 @@ To run the project, you will need the following Python libraries, which are list
 4. **Save and Load the Model:** Save the trained model in the model.h5 file and reload it later for making predictions.
    `from tensorflow.keras.models import load_model `
    `model = load_model('model.h5')`
+
+
+# Contributing
+If you would like to contribute to this project, please submit a pull request and explain the changes you have made. We welcome all feedback and suggestions!
