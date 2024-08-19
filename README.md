@@ -25,5 +25,6 @@ To run the project, you will need the following Python libraries, which are list
    To install the requirements, use the `python fashion_mnist_cnn_classifier.py` command.
    
 3. **Evaluate Results:** After training is complete, evaluate the model's performance and review the results in the Jupyter Notebook files located in the notebooks/ directory.
-4. **Save and Load the Model:** Save the trained model in the model.h5 file and reload it later for making predictions. `from tensorflow.keras.models import load_model
+4. **Save and Load the Model:** Save the trained model in the model.h5 file and reload it later for making predictions.
+5. `from tensorflow.keras.models import load_model
 model = load_model('model.h5')`
