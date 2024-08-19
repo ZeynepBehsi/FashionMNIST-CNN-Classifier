@@ -15,9 +15,7 @@ To run the project, you will need the following Python libraries, which are list
 - NumPy
 - Matplotlib
 
-## Example Image
-
-Here is an example image:
+## Example part of Dataset:
 
 ![Data Image](https://github.com/ZeynepBehsi/FashionMNIST-CNN-Classifier/blob/main/assets/dataimages.png))
 
