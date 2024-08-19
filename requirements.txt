@@ -1,0 +1,5 @@
+- NumPy
+- Pandas
+- TensorFlow
+- Keras
+- Matplotlib
