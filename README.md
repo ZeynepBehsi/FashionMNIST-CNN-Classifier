@@ -32,14 +32,14 @@ To run the project, you will need the following Python libraries, which are list
 # Version History
 **Version 2.0 - [02.09.2024]**
 
-- **Model Improvements:**
+**Model Improvements:**
 
 - Used the Adam optimizer without specifying an initial learning rate.
 - Defined an object within a class for early stopping, configured to halt training when the accuracy reaches or exceeds 98%.
 - Reduced the number of CNN layers from 2 to 1 and decreased the number of filters from 64 to 32.
 - Reduced the number of Dense layers from 3 to 2.
 
-- **Performance Evaluation:**
+**Performance Evaluation:**
 
 - Training accuracy increased from 88% to 97%.
 - Test accuracy improved from 86% to 91%.
